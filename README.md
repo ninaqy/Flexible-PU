@@ -30,7 +30,7 @@ Note that you can change the r_train_list to be the subset of [4,8,12,16], e.g. 
 ```
 python main_upsample.py --phase test --pretrain --batch_size 1 --r_test_list 4 --log_dir model_pretrained_flexible
 ```
-The upsampled xyz will be stored in "pretrained_model/test_x4".
+The upsampled xyz will be stored in "model_pretrained_flexible/test_x4".
 
 Note that you can change the r_test_list to be the subset of [4,...,16], e.g. "--r_test_list 5" or "--r_test_list 7,8,16" etc.
 
