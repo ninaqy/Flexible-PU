@@ -1,5 +1,5 @@
 # Flexible-PU
-This is the official implementation for "Deep Magnification-Flexible Upsampling over 3D Point Clouds" (https://arxiv.org/abs/2011.12745). 
+This is the official implementation for "Deep Magnification-Flexible Upsampling over 3D Point Clouds" (https://ieeexplore.ieee.org/document/9555219). 
 
 ### Environment setting
 The code is implemented with CUDA=10.0, tensorflow=1.14, python=2.7. Other settings should also be ok.
@@ -15,9 +15,9 @@ We provide the pretrained model and the training dataset that is capable of upsa
 - 39 testing models with 2048 points (test_data.tar) 
 - pretrained x4 model (MAFU_model.tar) 
 
-(TODO)
 
-Please check the path for train and test data by modifying the arguments "--train_data" and "--test_data".
+
+Please check the path for train and test data and modify the arguments "--train_data" and "--test_data" accordingly.
 
 
 ### Training
