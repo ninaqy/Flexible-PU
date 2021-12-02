@@ -28,7 +28,7 @@ Note that you can change the r_train_list to be the subset of [4,8,12,16], e.g. 
 
 ### Inference
 ```
-python main_upsample.py --phase test --pretrain --batch_size 1 --r_test_list 4 --log_dir pretrained_model
+python main_upsample.py --phase test --pretrain --batch_size 1 --r_test_list 4 --log_dir model_pretrained_flexible
 ```
 The upsampled xyz will be stored in "pretrained_model/test_x4".
 
