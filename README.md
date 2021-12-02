@@ -15,7 +15,7 @@ We provide the pretrained model and the training dataset that is capable of upsa
 - 39 testing models with 2048 points (test_data.tar) 
 - pretrained x4 model (MAFU_model.tar) 
 
-
+https://drive.google.com/drive/folders/1jLgGgfO8puQELgz9tbfwoLemGshjtSRl?usp=sharing
 
 Please check the path for train and test data and modify the arguments "--train_data" and "--test_data" accordingly.
 
