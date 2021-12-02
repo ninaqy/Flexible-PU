@@ -11,7 +11,7 @@ One can refer to the setting of PUGeo-Net (https://github.com/ninaqy/PUGeo)
 
 ### Datasets and pretrained model
 We provide the pretrained model and the training dataset that is capable of upsampling x4 to x16. Please download these files in the following link:
-- training data (train_data.tar)
+- training data in tfrecord form(train_data.tar)
 - 39 testing models with 2048 points (test_data.tar) 
 - pretrained x4 model (MAFU_model.tar) 
 
